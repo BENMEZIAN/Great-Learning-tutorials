@@ -30,8 +30,8 @@ This tutorial follows the "10 Minutes to Pandas" educational format but delive
 - Basic Python knowledge
 
 ## 📂 Repository Structure
-Great-Learning-tutorials
-## ├── Pandas_Tutorial.ipynb # ...         
+Great-Learning-tutorials  <br>
+├── Pandas_Tutorial.ipynb 
 
 ## ✅ What You'll Learn
 
