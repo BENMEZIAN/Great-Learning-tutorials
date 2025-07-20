@@ -30,7 +30,11 @@ This tutorial follows the "10 Minutes to Pandas" educational format but delive
 - Basic Python knowledge
 
 ## 📂 Repository Structure
-
+Great-Learning-tutorials/
+├── pandas/
+│ ├── Pandas_Tutorial.ipynb # Interactive Colab notebook
+│ └── README.md # This overview
+└── other_modules/ # Other tutorial topics
 
 ## ✅ What You'll Learn
 
