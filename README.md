@@ -31,7 +31,8 @@ This tutorial follows the "10 Minutes to Pandas" educational format but delive
 
 ## 📂 Repository Structure
 Great-Learning-tutorials  <br>
-├── Pandas_Tutorial.ipynb 
+├── Pandas_Tutorial.ipynb <br>
+├── README.md
 
 ## ✅ What You'll Learn
 
