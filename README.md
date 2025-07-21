@@ -44,9 +44,9 @@ bash
 Copy
 Edit
 Great-Learning-tutorials/
-├── Pandas_Tutorial.ipynb <br>
-├── Numpy_Tutorial.ipynb  <br>
-└── README.md                
+├── Pandas_Tutorial.ipynb    # Pandas walkthrough
+├── Numpy_Tutorial.ipynb     # NumPy walkthrough
+└── README.md                # Project documentation
 🙌 How to Contribute
 Pull requests are welcome! You can contribute by:
 
