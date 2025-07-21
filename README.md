@@ -40,7 +40,7 @@ Basic Python programming knowledge
 Familiarity with Jupyter/Colab notebooks
 
 ## 📂 Repository Structure
-Great-Learning-tutorials/
+Great-Learning-tutorials/ <br>
 ├── Pandas_Tutorial.ipynb    # Pandas walkthrough <br>
 ├── Numpy_Tutorial.ipynb     # NumPy walkthrough <br>
 └── README.md                # Project documentation
