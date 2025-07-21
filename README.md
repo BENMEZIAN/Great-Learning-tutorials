@@ -45,7 +45,7 @@ Great-Learning-tutorials/ <br>
 ├── Numpy_Tutorial.ipynb     # NumPy walkthrough <br>
 └── README.md                # Project documentation
 
-##🙌 How to Contribute
+## 🙌 How to Contribute
 Pull requests are welcome! You can contribute by:
 
 Adding new examples or sections
