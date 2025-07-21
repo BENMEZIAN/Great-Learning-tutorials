@@ -1,9 +1,9 @@
-Great Learning – Python Data Tutorials
+## Great Learning – Python Data Tutorials
 Welcome to the Great-Learning-tutorials repository!
 This repo offers interactive tutorials for learning popular Python libraries like Pandas and NumPy, designed to run seamlessly on Google Colab.
 
-📘 Tutorials Included
-📊 Pandas Tutorial
+## 📘 Tutorials Included
+### 📊 Pandas Tutorial
 An interactive introduction to Pandas inspired by the "10 Minutes to Pandas" format.
 
 Topics Covered:
@@ -18,7 +18,7 @@ Data cleaning and reshaping
 
 🔗 Open in Google Colab
 
-🔢 NumPy Tutorial
+## 🔢 NumPy Tutorial
 A hands-on guide to NumPy, the foundation of numerical computing in Python.
 
 Topics Covered:
@@ -32,14 +32,14 @@ Broadcasting, mathematical functions, and performance tips
 🔗 [Update this with your Colab link if available]
 📄 File: Numpy_Tutorial.ipynb
 
-🧠 Prerequisites
+## 🧠 Prerequisites
 Python 3.x (optional if using Google Colab)
 
 Basic Python programming knowledge
 
 Familiarity with Jupyter/Colab notebooks
 
-📂 Repository Structure
+## 📂 Repository Structure
 bash
 Copy
 Edit
@@ -47,7 +47,8 @@ Great-Learning-tutorials/
 ├── Pandas_Tutorial.ipynb    # Pandas walkthrough
 ├── Numpy_Tutorial.ipynb     # NumPy walkthrough
 └── README.md                # Project documentation
-🙌 How to Contribute
+
+##🙌 How to Contribute
 Pull requests are welcome! You can contribute by:
 
 Adding new examples or sections
@@ -64,5 +65,5 @@ Create a new branch (feature/my-enhancement)
 
 Submit a pull request
 
-💬 Summary
+## 💬 Summary
 This repository provides beginner-friendly, interactive tutorials on essential Python data libraries. It’s perfect for learners who prefer running code in-browser without installation hassles.
